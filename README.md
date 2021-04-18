@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @buiqhung127
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Machine Learning - Deep Learning
-- 💞️ I’m looking to collaborate on Machine Learning
+- 👀 I’m interested in Information Technology
+- 🌱 I’m currently learning Information Technology
+- 💞️ I’m looking to collaborate on Back-end, node.js
 - 📫 How to reach me bqhung127@gmail.com
 
 <!---
