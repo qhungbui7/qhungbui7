@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @buiqhung127
 - 👀 I’m interested in Information Technology
 - 🌱 I’m currently learning Information Technology
-- 💞️ I’m looking to collaborate on Back-end, node.js
+- 💞️ I’m looking to collaborate on RL
 - 📫 How to reach me bqhung127@gmail.com
 
 <!---
