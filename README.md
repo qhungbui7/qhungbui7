@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @buiqhung127
 - 👀 I’m interested in DL, RL
-- 🌱 I’m currently learning Information Technology (High – Quality Program) in VNUHCM - University of Science
+- 🌱 I’m currently learning Information Technology (High – Quality Program) in VNUHCM - University of Science, Viet Nam
 - 💞️ I’m looking to collaborate on DL
 - 📫 How to reach me : hoangtulai107@gmail.com / bqhung127@gmail.com / 20127508@student.hcmus.edu.vn
 
