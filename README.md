@@ -3,6 +3,7 @@
 - 😳 I’m interested in Deep Learning, Deep Reinforcement Learning
 - ⚛️ I’m currently learning Information Technology (High – Quality Program) in VNUHCM - University of Science, Vietnam
 - 🕵️ I’m looking to collaborate on Deep Learning
+- 🖋 I've write a lot about several things
 - 📞 Contacc :  bqhung201@clc.fitus.edu.vn / bqhung127@gmail.com
 
 <!---
