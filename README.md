@@ -2,9 +2,9 @@
 - 🦄 Hi, I’m @buiqhung127
 - 😳 I’m fascinated by Machine Learning
 - ⚛️ I’m currently learning Information Technology (High – Quality Program) in VNUHCM - University of Science, Vietnam
-- 🕵️ I’m looking to collaborate on Machine Learning - Computer Vision
+- 🕵️ I’m looking to collaborate on Machine Learning - Computer Vision project
 - 🖋 I've written a lot about numerous things
-- 📞 Contacc : bqhung201@clc.fitus.edu.vn / bqhung127@gmail.com
+- 📞 Contact : bqhung201@clc.fitus.edu.vn / bqhung127@gmail.com
 
 <!---
 buiqhung127/buiqhung127 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
