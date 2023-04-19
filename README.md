@@ -5,7 +5,7 @@
 - 🖋 I've written a lot about numerous things
 - 😳 I’m Machine Learning enthusiast
 - 😍 I'm a big fan of YOASOBI and The Weeknd
-- 📞 Contact me by my email: bqhung127@gmail.com <br/>
+- 📞 Contact me via my personal email: bqhung127@gmail.com <br/>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/51830373/149170928-cf844a4c-4cc4-4676-a0ba-2e3dc19bbb42.gif" />
