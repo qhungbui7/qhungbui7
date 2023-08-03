@@ -11,7 +11,7 @@
 </p> 
 
 <p align="center">
-![2_Summons](https://github.com/qhungbui7/qhungbui7/assets/51830373/460dc263-b538-40ac-8490-1a26df5d1346)
+  <img src="https://github.com/qhungbui7/qhungbui7/assets/51830373/460dc263-b538-40ac-8490-1a26df5d1346" />
 </p> 
 
 <br>
