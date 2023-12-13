@@ -1,8 +1,7 @@
 ### 🚀 Hello, I'm Quoc-Hung⚡
 🦄 Hi, I’m @qhungbui7 <br>
 ⚛️ I’m currently learning Computer Science at VNUHCM - University of Science, Vietnam <br>
-🔥 I’m a Machine Learning enthusiast <br>
-😍 I'm a big fan of YOASOBI and The Weeknd <br>
+🔥 I’m a Machine Learning enthusiast and also a big fan of The Weeknd <br>
 🕵️ I’m looking to collaborate on Natural Language Processing, Reinforcement Learning projects <br>
 📞 Contact me via this email: bqhung127@gmail.com <br>
 
